@@ -1,15 +1,6 @@
 ![image](https://github.com/wkf1lthy/wkf1lthy/blob/master/gif/4OKl.gif)
 
-<hr>
-Completed projects :
-<div align="center">
 
-[![LIBFT](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/libft.png)](https://github.com/wkf1lthy/42_Libft)
-[![PRINTF](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/printf.png)](https://github.com/wkf1lthy/42_printf)
-[![GET NEXT LINE](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges//get_next_linee.png)](https://github.com/wkf1lthy/42_GNL)
-[![PUSH SWAP](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/push_swape.png)](https://github.com/wkf1lthy/42_PushSwap)
-[![MINI TALK](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/minitalke.png)](https://github.com/wkf1lthy/42_MiniTalk)
-<hr>
 
 ## 42cursus Progress 👉 📂
 
@@ -25,4 +16,13 @@ Completed projects :
 | 6B  |  pipex           | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   |  [push_swap](../../../push_swap)                                  | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   |  minishell                                  | 🛠     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
-| 9   |  [Philosphers](../../../Philosophers)                                |  🔒    |   | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |
+| 9   |  [Philosphers](../../../Philosophers)                                |  🔒    |   | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |<hr>
+Completed projects :
+<div align="center">
+
+[![LIBFT](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/libft.png)](https://github.com/wkf1lthy/42_Libft)
+[![PRINTF](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/printf.png)](https://github.com/wkf1lthy/42_printf)
+[![GET NEXT LINE](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges//get_next_linee.png)](https://github.com/wkf1lthy/42_GNL)
+[![PUSH SWAP](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/push_swape.png)](https://github.com/wkf1lthy/42_PushSwap)
+[![MINI TALK](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/minitalke.png)](https://github.com/wkf1lthy/42_MiniTalk)
+<hr>
