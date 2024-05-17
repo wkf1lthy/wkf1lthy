@@ -1,6 +1,10 @@
 ![image](https://github.com/wkf1lthy/wkf1lthy/blob/master/gif/4OKl.gif)
 
-[![Tools](https://skillsicons.dev/icons?=notion)
+## 💻 Tools
+<p align="center">
+  <a href=""https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,figma" />
+
 ## 42cursus Progress 👉 📂
 
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
