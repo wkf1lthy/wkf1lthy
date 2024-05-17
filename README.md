@@ -6,6 +6,7 @@
     <img src="https://skillicons.dev/icons?i=notion,figma,vscode,github,kali,linux,ubuntu" />
   </a>
 </p>
+
 ## 🧑‍💻 Current Technical Skills
 <p align="center">
   <a href="https://skillicons.dev">
