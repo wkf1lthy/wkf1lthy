@@ -9,7 +9,7 @@
 ## 💡 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?ic,html,css/>
+    <img src="https://skillicons.dev/icons?ic,html,css" />
   </a>
 </p>
   
