@@ -6,7 +6,7 @@
     <img src="https://skillicons.dev/icons?i=notion,figma,vscode,github,kali,linux,ubuntu" />
   </a>
 </p>
-💡 𝘀𝗸𝗶𝗹𝗹𝘀
+## 💡 skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,html,css" />
