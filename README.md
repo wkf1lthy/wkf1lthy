@@ -6,6 +6,7 @@
     <img src="https://skillicons.dev/icons?i=notion,figma,vscode,github,kali,linux,ubuntu" />
   </a>
 </p>
+## 💡 Skills
 
 
 ## 42cursus Progress 👉 📂
