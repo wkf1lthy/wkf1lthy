@@ -11,10 +11,7 @@ Completed projects :
 [![MINI TALK](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/minitalke.png)](https://github.com/wkf1lthy/42_MiniTalk)
 <hr>
 
-
-
 ## 42cursus Progress 👉 📂
-
 
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
