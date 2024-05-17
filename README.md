@@ -3,7 +3,7 @@
 ## 💻 Tools
 <p align="center">
   <a href=""https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,figma" />
+    <img src="https://skillicons.dev/icons?i=notion,figma,vim, twitte" />
   </a>
 </p>
 
