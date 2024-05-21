@@ -1,6 +1,6 @@
-
-![image](https://github.com/wkf1lthy/wkf1lthy/blob/master/gif/Ypa5.gif)
-
+<p align="center">
+<img width ="1080" height="500" src="https://github.com/wkf1lthy/wkf1lthy/blob/master/gif/Ypa5.gif"
+</p>
 
 
 ## 💻 Tools
