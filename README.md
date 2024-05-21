@@ -41,4 +41,5 @@ Completed projects :
 [![GET NEXT LINE](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges//get_next_linee.png)](https://github.com/wkf1lthy/42_GNL)
 [![PUSH SWAP](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/push_swape.png)](https://github.com/wkf1lthy/42_PushSwap)
 [![MINI TALK](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/minitalke.png)](https://github.com/wkf1lthy/42_MiniTalk)
+[![SO_LONG](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges//so_long.png](https://github.com/wkf1lthy/42_printf)
 <hr>
