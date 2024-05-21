@@ -16,8 +16,6 @@
     <img src="https://skillicons.dev/icons?i=c,html,css" />
   </a>
 </p>
-  
-	miniRT
 
 ## 42cursus Progress 👉 📂
 
