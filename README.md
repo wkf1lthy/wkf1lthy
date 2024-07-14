@@ -13,7 +13,7 @@
 ## 🧑‍💻 Current Technical Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,c++" />
   </a>
 </p>
 
