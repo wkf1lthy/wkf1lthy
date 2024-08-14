@@ -1,5 +1,5 @@
 <p align="center">
-<img width ="1080" height="500" src="https://68.media.tumblr.com/24a987ce9e5928f7bef49191a1f3dd4d/tumblr_ou981p43Oe1rl0zcto1_500.gif"
+<img width ="1080" height="500" src="https://pa1.aminoapps.com/6751/9717531e9c76a84caf85928b29cdd45baa6e8a27_00.gif"
 </p>
 
 
