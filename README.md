@@ -31,7 +31,7 @@
 | 6B  |  pipex           | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   |  [push_swap](https://github.com/wkf1lthy/42_PushSwap)                                 | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   |  minishell                                  | 🛠     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
-| 9   |  Philosphers                                |⚒|   | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |<hr>
+| 9   |  Philosphers                                |🛠️\|| 19  | CPP Module 08                              | 🔒     |   |     |                       |        |<hr>
 
 
 Completed projects :
