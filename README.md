@@ -6,7 +6,7 @@
 ## 💻 Tools
 <p align="center">
   <a href=""https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,figma,vscode,github,kali,linux,ubuntu,apple" />
+    <img src="https://skillicons.dev/icons?i=notion,figma,vscode,github,kali,linux,ubuntu,apple,discord,slack" />
   </a>
 </p>
 
