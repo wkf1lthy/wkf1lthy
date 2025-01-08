@@ -42,6 +42,6 @@ Completed projects :
 [![GET NEXT LINE](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/get_next_linem.png)](https://github.com/wkf1lthy/42_GNL)
 [![PUSH SWAP](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/push_swape.png)](https://github.com/wkf1lthy/42_PushSwap)
 [![MINI TALK](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/minitalke.png)](https://github.com/wkf1lthy/42_MiniTalk)
-[![SO_LONG](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/so_longm.png)](https://github.com/wkf1lthy/42_So_Long)
+[![SO_LONG](https://github.com/ayogun/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/wkf1lthy/42_So_Long)
 [![MINI_SHELL](https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png)](https://github.com/vabaud/minishell)
 <hr>
