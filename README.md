@@ -30,7 +30,7 @@
 | 6A  |  [Minitalk](https://github.com/wkf1lthy/42_MiniTalk)                                  | ✅     |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
 | 6B  |  pipex           | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   |  [Push_swap](https://github.com/wkf1lthy/42_PushSwap)                                 | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
-| 8   |  Minishell                                  | 🛠     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
+| 8   |  [Minishell](https://github.com/vabaud/minishell)                                |   ✅     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
 | 9   |  [Philosphers](https://github.com/wkf1lthy/42_Philo)                                |🛠️|| 19  | CPP Module 08                              | 🔒     |   |     |                       |        |<hr>
 
 
