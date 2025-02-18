@@ -1,5 +1,5 @@
 <p align="center">
-<img width ="500" height="500" src="https://github.com/wkf1lthy/wkf1lthy/blob/master/gif/tumblr_67b2e2accfaddc80a452ddc9724bb338_261fd9f7_500.gif"
+<img width ="500" height="400" src="https://github.com/wkf1lthy/wkf1lthy/blob/master/gif/tumblr_67b2e2accfaddc80a452ddc9724bb338_261fd9f7_500.gif"
 </p>
 
 
