@@ -28,5 +28,5 @@ Completed projects :
 [![SO_LONG](https://github.com/ayogun/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/wkf1lthy/42_So_Long)
 [![MINI_SHELL](https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png)](https://github.com/vabaud/minishell)
 [![PHILOSOPHERS](https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/wkf1lthy/42_philo)
-![CPP](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/cppe.png)
+[![CPP](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/cppe.png)](https://github.com/wkf1lthy/CPP)
 <hr>
