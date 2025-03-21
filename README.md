@@ -29,5 +29,5 @@ Completed projects :
 [![MINI_SHELL](https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png)](https://github.com/vabaud/minishell)
 [![PHILOSOPHERS](https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/wkf1lthy/42_philo)
 [![CPP](https://github.com/wkf1lthy/wkf1lthy/blob/master/Badges/cppe.png)](https://github.com/wkf1lthy/CPP)
-[![CUB3D](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png)]
+[![CUB3D](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png)](https://github.com/wkf1lthy/Cub3d)
 <hr>
